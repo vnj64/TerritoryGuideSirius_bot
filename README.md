@@ -1,3 +1,3 @@
-# Sirius_tour_guide_kamilin
-Проект телеграм-бот экскурсовод по Федеральной территории "Сириус". 
-Создан в качестве задания для олимпиады "Всероссийский айти раунд".
+# Bot guide
+The project is a telegram bot guide to the Federal Territory "Sirius".
+Created as a task for the Olympiad "All-Russian IT Round"
